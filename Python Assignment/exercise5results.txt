@@ -1,0 +1,26 @@
+Anurags-MacBook-Air:Python Assignment anuragshukla$ sudo python Exercise5.py 
+Aircraft #  1  has been istantiated
+Initial X-Coord: 10
+Initial X-Coord: 34
+Final X-Coord: 10
+Final X-Coord: 34
+Aircraft #  2  has been istantiated
+Initial X-Coord: 47
+Initial X-Coord: 13
+Final X-Coord: 64
+Final X-Coord: 54
+Aircraft #  3  has been istantiated
+Initial X-Coord: 89
+Initial X-Coord: 1
+Final X-Coord: 58
+Final X-Coord: 68
+Aircraft #  4  has been istantiated
+Initial X-Coord: 31
+Initial X-Coord: 41
+Final X-Coord: 80
+Final X-Coord: 49
+Aircraft #  5  has been istantiated
+Initial X-Coord: 23
+Initial X-Coord: 88
+Final X-Coord: 89
+Final X-Coord: 86

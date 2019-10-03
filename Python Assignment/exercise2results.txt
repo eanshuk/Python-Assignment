@@ -1,0 +1,17 @@
+Anurags-MacBook-Air:Python Assignment anuragshukla$ sudo python Exercise2.py 
+Initial X-Coord: 0
+Initial X-Coord: 0
+Moved up . . .
+Moved left . . .
+Moved down . . .
+Moved up . . .
+Moved up . . .
+Moved right . . .
+Moved down . . .
+Moved left . . .
+Moved up . . .
+Moved down . . .
+Moved left . . .
+Moved right . . .
+Final X-Coord: 2
+Final X-Coord: -2

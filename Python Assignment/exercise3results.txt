@@ -1,0 +1,86 @@
+Anurags-MacBook-Air:Python Assignment anuragshukla$ sudo python Exercise3.py 
+Aircraft #  1  has been istantiated
+Initial X-Coord: 0
+Initial X-Coord: 0
+Flight  1  Moved up . . .
+Flight  1  Moved left . . .
+Flight  1 Moved down . . .
+Flight  1  Moved up . . .
+Flight  1  Moved up . . .
+Flight  1  Moved right . . .
+Flight  1 Moved down . . .
+Flight  1  Moved left . . .
+Flight  1  Moved up . . .
+Flight  1 Moved down . . .
+Flight  1  Moved left . . .
+Flight  1  Moved right . . .
+Final X-Coord: 2
+Final X-Coord: -2
+Aircraft #  2  has been istantiated
+Initial X-Coord: 0
+Initial X-Coord: 0
+Flight  2  Moved up . . .
+Flight  2  Moved left . . .
+Flight  2 Moved down . . .
+Flight  2  Moved up . . .
+Flight  2  Moved up . . .
+Flight  2  Moved right . . .
+Flight  2 Moved down . . .
+Flight  2  Moved left . . .
+Flight  2  Moved up . . .
+Flight  2 Moved down . . .
+Flight  2  Moved left . . .
+Flight  2  Moved right . . .
+Final X-Coord: 2
+Final X-Coord: -2
+Aircraft #  3  has been istantiated
+Initial X-Coord: 0
+Initial X-Coord: 0
+Flight  3  Moved up . . .
+Flight  3  Moved left . . .
+Flight  3 Moved down . . .
+Flight  3  Moved up . . .
+Flight  3  Moved up . . .
+Flight  3  Moved right . . .
+Flight  3 Moved down . . .
+Flight  3  Moved left . . .
+Flight  3  Moved up . . .
+Flight  3 Moved down . . .
+Flight  3  Moved left . . .
+Flight  3  Moved right . . .
+Final X-Coord: 2
+Final X-Coord: -2
+Aircraft #  4  has been istantiated
+Initial X-Coord: 0
+Initial X-Coord: 0
+Flight  4  Moved up . . .
+Flight  4  Moved left . . .
+Flight  4 Moved down . . .
+Flight  4  Moved up . . .
+Flight  4  Moved up . . .
+Flight  4  Moved right . . .
+Flight  4 Moved down . . .
+Flight  4  Moved left . . .
+Flight  4  Moved up . . .
+Flight  4 Moved down . . .
+Flight  4  Moved left . . .
+Flight  4  Moved right . . .
+Final X-Coord: 2
+Final X-Coord: -2
+Aircraft #  5  has been istantiated
+Initial X-Coord: 0
+Initial X-Coord: 0
+Flight  5  Moved up . . .
+Flight  5  Moved left . . .
+Flight  5 Moved down . . .
+Flight  5  Moved up . . .
+Flight  5  Moved up . . .
+Flight  5  Moved right . . .
+Flight  5 Moved down . . .
+Flight  5  Moved left . . .
+Flight  5  Moved up . . .
+Flight  5 Moved down . . .
+Flight  5  Moved left . . .
+Flight  5  Moved right . . .
+Final X-Coord: 2
+Final X-Coord: -2

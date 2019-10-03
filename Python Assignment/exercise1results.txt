@@ -1,0 +1,30 @@
+Anurags-MacBook-Air:Python Assignment anuragshukla$ sudo python Exercise1.py 
+Password:
+1
+2
+
+
+Anurags-MacBook-Air:Python Assignment anuragshukla$ sudo python Ex1.2.py 
+Air-craft Number:  1
+1
+7
+
+
+Air-craft Number:  2
+3
+5
+
+
+Air-craft Number:  3
+4
+8
+
+
+Air-craft Number:  4
+9
+10
+
+
+Air-craft Number:  5
+6
+12
